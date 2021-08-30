@@ -1,6 +1,6 @@
 # fake3d_iso_layout
-A fake 3d / isometric tile landscape with water
-
+A fake 3d / isometric tile landscape with water - view on Youtiube https://www.youtube.com/watch?v=0CEyULy1wrw
+<br />
 Use the mouse to navigate, left click to the block you want to move though note that movement needs a lot more work.
 <br/>
 END key closes the window
